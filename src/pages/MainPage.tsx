@@ -8,7 +8,7 @@ const MainPage: React.FC = () => {
 
   return (
     <motion.div
-      className="relative h-full w-full flex flex-col items-center justify-center text-center bg-gray-100"
+      className="flex items-center justify-center h-screen w-full flex-col text-center bg-gray-100"
       initial="hidden"
       animate="visible"
       variants={{

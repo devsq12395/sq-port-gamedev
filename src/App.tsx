@@ -14,7 +14,7 @@ const App: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>IdeaHub Project</title>
+        <title>Portfolio - Clydon Gamboa</title>
       </Helmet>
 
       <Routes>
